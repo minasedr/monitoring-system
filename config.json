@@ -1,0 +1,12 @@
+{
+  "api_url": "https://google.com",
+  "api_key": "your_api_key",
+  "prtg": {
+    "server_url": "https://prtg.com",
+    "username": "your_username",
+    "passhash": "your_passhash",
+    "sensor_name": "api_usage_sensor",
+    "sensor_description": "API Usage Sensor"
+  },
+  "query_interval": 3
+}
